@@ -637,7 +637,7 @@ MIT License
 
 ## 👨‍💻 Geliştirici
 
-Coffee Paradise Team
+yusufdegerli
 
 ## 🆘 Destek
 
