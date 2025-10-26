@@ -645,7 +645,7 @@ Sorularınız için:
 
 - Issue açın
 - Pull request gönderin
-- Email: support@coffeeparadise.com (örnek)
+- Email: yusufdgrl72@gmail.com (örnek)
 
 ---
 
